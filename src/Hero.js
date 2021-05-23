@@ -1,4 +1,5 @@
 import Button from "./components/Button";
+import HeroImg from "./assets/hero.svg";
 
 function Hero() {
   return (
@@ -14,7 +15,7 @@ function Hero() {
         </div>
         <div className="col-6 image">
           <img
-            src="https://dacecode.github.io/assets/images/hero_img.svg"
+            src={HeroImg}
             alt=""
           />
         </div>

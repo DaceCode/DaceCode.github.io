@@ -16,7 +16,7 @@ function Footer() {
       <div className="footer-credit">
         <p>
           Designed and Developed by{" "}
-          <a href="https://github.com/bkanhu/" target="_blank">
+          <a href="https://github.com/bkanhu/" target="_blank" rel="noreferrer">
             B Kanhu Charan
           </a>{" "}
         </p>
